@@ -1,0 +1,13 @@
+*.o
+
+# eclipse setting
+.settings
+.cproject
+.project
+
+# Example project files
+examples/**/sdkconfig
+examples/**/sdkconfig.old
+examples/**/build
+
+.output
